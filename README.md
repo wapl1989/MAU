@@ -25,6 +25,6 @@ Ejecutar el siguiente comando para publicar la aplicación:
 dotnet publish -c Release -o ./publish
 
 Ir al directorio ./publish y ejecutar el siguiente comando para iniciar la aplicación:
-dotnet NombreDeLaAplicacion.dll
+dotnet TestMillionAndUp.dll
 
 La aplicación debería estar en funcionamiento en la dirección http://localhost:5000 o en el puerto especificado en el archivo appsettings.json.
